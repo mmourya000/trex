@@ -1,0 +1,43 @@
+
+Accountable for developing the high level Test Strategy and then developing and executing the detailed System and Acceptance Test Plans. Help create the test scenarios, test cases and test data for System and Acceptance (as defined by the Testing discipline in SA&E); help create test scripts (manual and automated). Accountable for preparing and coordinating Acceptance testing and working with the business area to define the acceptance criteria. Own the communication and approval of test results. Approve the readiness and migration of code and environment changes from development to testing. Accountable for determining and transitioning the ownership of relevant test artifacts, (documents, test cases, test beds, test environments, etc.) to ensure environmental cleanup, future use, maintenance, obsolescence.
+
+Team of developers and testers who are working with numerous application teams to implement a large infrastructure change.
+----------------------------------------------
+
+
+Please find below details below for submission. Thanks!
+·         Right to represent; “I (Deepshikha Kushwaha) provides Codeworks exclusive right to represent me for Northwestern Mutual ­Test Lead--NMJP00011325 role in Milwaukee, WI and further confirms that I’ve not submitted for this roles from any other staffing firm.”
+·         Pay rate of $60 on Codeworks W2 (no – healthcare)
+
+
+VENDOR OVERVIEW:
+Deepshikha is completing IPS-Digital Modernization Transformation project at NM, where she performed 'Senior Test Engineer' role in which she played strategic leadership role in test design, execution and providing key project deliverables. Mentored and trained the team on methodologies, tools, and techniques.
+Managed QA efforts for the QA team and coordinated testing efforts of QA teams and their deliverables. Proactively managed testing for highly visible and challenging applications under tight schedules by adapting well-defined process for testing.
+
+She was also reviewing and analyzing requirement, creating test plans, test cases, bug reporting, and documentation. Performed different testing like smoke, functional(ETL test), regression, API/webservices, backend, UAT testing.
+
+Developed test scripts, conducted unit tests, documented and resolved discrepancies resulting in zero defects in production. Reviewed Legacy API code written in Node.js JavaScript and documented each error code response (more than 300) in detail. Wrote Unit test in java code to replicate Legacy Node.js error code response. Utilizing Postman to run API automated tests using Postman collection runner and validating the test results in JSON format. Utilized Jenkins, Git and Intellij for deployment of local unit test code to test servers and run the build towards CI/CD pipeline. Validated the status of executed tests and reported the test results.
+
+She is also specialized in Automation (UFT/Selenium/Postman/Jmeter) and Manual (QC, ALM, TestRail) testing of web-based and client-server cloud-based applications in different test and UAT environment. She has understanding of client/server applications and microservice architecture, and the ability to test highly-complex integrated systems and data.
+
+ As a part of Agile scrum team, she attended daily scrum meetings to discuss project progress, issues, set ups and fix availability. She has good communication skills and is trained in Java Programming and understand the code. She is completing her project in IPS Data Modernization project through Codeworks with positive feedback from the managers.
+
+She also worked as Business Analyst to researched P1, P2 errors tickets for failed ETL jobs and worked with offshore support team to analyze root cause and documented to rectify errors, allowing the business to make informed decisions and improve operational efficiency. Prepared instruction manuals, use cases and developed and maintained operational and technical flow diagrams using Visio and PowerPoint. Created reports in partnership with IT Developers, Informatica SME to drive productivity improvements. Collaborated with on-site developers and offshore support team and other analysts to implement functional specifications until achieving stakeholders' desired end results. 
+ 
+She is available for in-person interview with prior notice. She is available to join immediately.
+------------------------
+
+Experience writing and executing test cases - 
+
+The application is divided into different parts when business analyst writes the requirement documents. He/she writes each requirement document for each module. So I start writing test cases for each module. There might be scenarios, which have to break down further into sub-categories. So I develop test scenarios based on analyzing requirement document and flow of the application functionality. 
+
+Based on the application functionalities like if it is a web application or client server application or backend database testing, I create different test flows using happy/unhappy path. Prepare set of valid and invalid test data and perform testing using test cases.
+
+
+Experience testing print pages and/or if they have testing anything similar - 
+I have never worked on testing print pages applications but i have tested pdf reports in my banking projects of financial transactions where i have validated pdf reports are getting all valid information of transactions performed as per business requirement or not. For print pages, If given chance, I will prepare test scenarios based on requirement document, write test cases for happy and unhappy path test and test the application. In case if requirement documents are not available, then i will discuss the functionality with business person or developers, in order to understand the business flow and prepare test cases and test the application. 
+
+
+
+
+ 
